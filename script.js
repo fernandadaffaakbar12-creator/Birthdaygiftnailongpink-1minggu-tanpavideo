@@ -245,7 +245,7 @@
         const pinPopupClose = document.getElementById('pin-popup-close');
 
         // DEFAULT PIN: Silakan ubah angka ini jika ingin PIN lain
-        const SECRET_PIN = "1022";
+        const SECRET_PIN = "2426";
 
         let pinAttempt = 0;
         let popupTimeout = null;
@@ -256,7 +256,7 @@
                 // Percobaan pertama: tampilkan foto kucing
                 showCat: true,
                 emoji: '',
-                message: 'Masa tanggal spesial kita lupa?',
+                message: 'Masa tanggal ultah aku lupa?',
                 buttonText: 'Iya iya maaf 😭'
             },
             {
